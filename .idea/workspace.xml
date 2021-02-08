@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc68b51-48b2-41b6-983d-c7abd0440e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html_css/css/recipe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css/css/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/css/recipe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_css/homework3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/homework3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html_css/images" />
+      <recent name="$PROJECT_DIR$/html_css/css" />
+      <recent name="$PROJECT_DIR$/html_css/icons" />
       <recent name="$PROJECT_DIR$/html_css" />
     </key>
   </component>
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612705279838</updated>
-      <workItem from="1612705281168" duration="22156000" />
+      <workItem from="1612705281168" duration="36363000" />
     </task>
     <servers />
   </component>
