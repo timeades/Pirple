@@ -13,24 +13,37 @@ body {
 .headings {
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: black;
+    text-decoration-color: #AAB0EE;
     padding: 10px 10px 10px 10px ;
 }
 
 .sub-headings {
     font-style: italic;
     padding: 10px 10px 10px 10px ;
+
 }
 
 p {
     font-size: 18px;
     padding-left: 10px;
 }
-span {
+
+.red {
+    color: red;
+    font-style: normal;
+}
+section > div > div > p > span {
     font-style: italic;
-    font-weight: bold;
 }
 
+section > div > div >  p > span > span {
+    text-decoration: underline;
+    text-decoration-color: #AAB0EE;
+}
+span {
+    /*font-style: oblique;*/
+    font-weight: bold;
+}
 #ingredients {
     font-size: 20px;
     width: 500px;
@@ -76,5 +89,15 @@ span {
 .img {
     width: 302px;
     height: auto;
+    padding: 10px 10px 10px 10px;
+}
+
+#alternative {
+    color: #AAB0EE;
+}
+
+#address {
+    color: #AAB0EE;
+    font-style: italic;
     padding: 10px 10px 10px 10px;
 }
