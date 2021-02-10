@@ -1,0 +1,41 @@
+/* For CSS properties and values I used https://www.w3schools.com/cssref/ */
+
+body {
+    background-color: LightSkyBlue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: black;
+    padding: 10px 10px 10px 10px ;
+}
+h3 {
+    font-style: italic;
+    padding: 10px 10px 10px 10px ;
+}
+p {
+    font-size: 15px;
+    padding-left: 10px;
+}
+ul {
+    font-size: 20px;
+    background-color: SkyBlue;
+}
+ol {
+    font-size: 20px;
+    background-color: SkyBlue;
+}
+#nav a {
+    color: blue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#nav a:hover {
+    color: darkred;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+img {
+    padding: 10px 10px 10px 10px;
+}

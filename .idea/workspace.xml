@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc68b51-48b2-41b6-983d-c7abd0440e95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html_css/homework5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_css/css/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/css/recipe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_css/homework3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/homework3.html" afterDir="false" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -66,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612705279838</updated>
-      <workItem from="1612705281168" duration="40732000" />
+      <workItem from="1612705281168" duration="41780000" />
+      <workItem from="1612864305788" duration="15665000" />
     </task>
     <servers />
   </component>
