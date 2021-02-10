@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc68b51-48b2-41b6-983d-c7abd0440e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html_css/homework1-instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_css/homework2-instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_css/homework3-instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_css/homework4-instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_css/homework5-instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_css/project1-instructions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_css/project2-exam-instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Project2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/project2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html_css/Instructions" />
       <recent name="$PROJECT_DIR$/html_css/images" />
       <recent name="$PROJECT_DIR$/html_css/css" />
       <recent name="$PROJECT_DIR$/html_css/icons" />
@@ -73,6 +69,7 @@
       <updated>1612705279838</updated>
       <workItem from="1612705281168" duration="41780000" />
       <workItem from="1612864305788" duration="15665000" />
+      <workItem from="1612987043159" duration="226000" />
     </task>
     <servers />
   </component>
