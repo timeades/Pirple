@@ -1,0 +1,118 @@
+/* For CSS properties and values I used https://www.w3schools.com/cssref/ and https://developer.mozilla.org/en-US/docs/Web/CSS */
+/* For color combinations I have used https://www.canva.com/colors/color-wheel/ */
+/* The hand icon used in the ul was from https://www.clipartkey.com */
+
+
+/* --------------------------------------- Responsive styles --------------------------------*/
+
+/* --------------------------------------- Overall page style -------------------------------*/
+body {
+    background-color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    color: #8182A3;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+/* --------------------------------------- Navigation styling -----------------------------------------------*/
+
+nav {
+    /*height: 50px; /* setting height of color box around nav element*/
+    /*background-color: #82A381; /* setting color of box around nav element */
+    /*width: 100%; /* setting width to be 100% of body */
+    /*line-height: 50px; /* setting line height to the same a box height to get elements to sit nicely in the middle */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #82A381;
+}
+nav ul {
+    list-style: none; /* remove normal link attributes */
+    padding-left: 0;
+    display: flex;
+}
+nav ul li a {
+    margin: 0 10px;
+    display: block;
+    padding: 0 10px;
+}
+/* This part of the navigation sets the link color and the hover over functionality*/
+nav a {
+    color: white;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+/* --------------------------------------- End of Navigation styling -----------------------------------------------*/
+
+/* --------------------------------------- Main Page Content Styling -----------------------------------------------*/
+/* Setting a different color to highlight the  */
+
+.heading {
+    padding-left: 10px;
+}
+.article {
+    background-color: Gainsboro;
+    height: auto;
+    width: 100%;
+}
+.sub-headings {
+    font-style: italic;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#instructions {
+    background-color: lightyellow;
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+/* adding red text to one span element and removing the italics */
+#highlight-red {
+    color: red;
+    font-style: normal;
+}
+/* Underlining the last span element */
+#highlight-underline {
+    text-decoration: underline;
+}
+p {
+    font-size: 18px;
+    padding-left: 10px;
+}
+/* setting italics for every object inside a span tag in a p tag */
+p span{
+    font-style: italic;
+    font-weight: bold;
+}
+em {
+    font-weight: bold;
+}
+/* setting the icon for bullet style for the unordered list */
+.icon-bullets {
+
+    list-style-image: url("../images/hand1.png");
+}
+/* changing the bullet style to roman numerals for the ordered list */
+.roman-bullets  {
+    list-style-type: lower-roman;
+}
+/* sizing the images to be the same */
+.img {
+    width: 302px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+}
+/* --------------------------------------- Main Page Content Styling -----------------------------------------------*/
+
+/* -------------------------------------- Footer Content Styling (outside of navigation) ---------------------------*/
+address {
+    color: #8182A3;
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+/* -------------------------------------- End of Footer Content Styling --------------------------------------------*/
