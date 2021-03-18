@@ -2,49 +2,47 @@
 /* For color combinations I have used https://www.canva.com/colors/color-wheel/ */
 /* The hand icon used in the ul was from https://www.clipartkey.com */
 
-/* Overall page settings */
+
+/* --------------------------------------- Responsive styles --------------------------------*/
+
+/* --------------------------------------- Overall page style -------------------------------*/
 body {
     background-color: white;
     font-family: 'Hammersmith One', sans-serif;
     color: #8182A3;
-    margin-left: 65px;
-    margin-right: 65px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 /* --------------------------------------- Navigation styling -----------------------------------------------*/
 
-/* Setting the color and size for the background to the top navigation bar and where the text sits in the bar */
-#header {
+nav {
+    /*height: 50px; /* setting height of color box around nav element*/
+    /*background-color: #82A381; /* setting color of box around nav element */
+    /*width: 100%; /* setting width to be 100% of body */
+    /*line-height: 50px; /* setting line height to the same a box height to get elements to sit nicely in the middle */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: #82A381;
-    height: 40px;
-    width: auto;
 }
-/* add some padding to get the text aligned inside its box*/
-#top-nav {
-    padding-top: 10px;
+nav ul {
+    list-style: none; /* remove normal link attributes */
+    padding-left: 0;
+    display: flex;
 }
-#lower-nav {
-    background-color: #82A381;
-    height: 40px;
-    width: auto;
-    padding-top: 10px;
-}
-/* changing the color of the pipes to match the link color */
-.divider {
-    color: white;
+nav ul li a {
+    margin: 0 10px;
+    display: block;
+    padding: 0 10px;
 }
 /* This part of the navigation sets the link color and the hover over functionality*/
-.nav a {
+nav a {
     color: white;
     text-decoration: none;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
 }
-.nav a:hover {
+nav a:hover {
     text-decoration: underline;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
 }
 /* --------------------------------------- End of Navigation styling -----------------------------------------------*/
 
@@ -56,10 +54,20 @@ body {
 }
 .article {
     background-color: Gainsboro;
+    height: auto;
+    width: 100%;
 }
 .sub-headings {
     font-style: italic;
-    padding: 10px 10px 10px 10px ;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#instructions {
+    background-color: lightyellow;
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    margin-left: 10px;
 }
 /* adding red text to one span element and removing the italics */
 #highlight-red {
@@ -100,18 +108,6 @@ em {
 /* --------------------------------------- Main Page Content Styling -----------------------------------------------*/
 
 /* -------------------------------------- Footer Content Styling (outside of navigation) ---------------------------*/
-
-#footer {
-    background-color: #82A381;
-    height: 40px;
-    width: auto;
-    padding-top: 10px;
-}
-h4 {
-    margin-top: 15px;
-    margin-bottom: 5px;
-    padding-left:10px;
-}
 address {
     color: #8182A3;
     font-size: 12px;
