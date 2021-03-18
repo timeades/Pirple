@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc68b51-48b2-41b6-983d-c7abd0440e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js_es6/variable_const.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_es6/variable_let.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_es6/variables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_es6/variables_var.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/comprison_operators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/if-statement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,29 +68,29 @@
       <recent name="$PROJECT_DIR$/html_css" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.variables.js">
+  <component name="RunManager" selected="Node.js.comprison_operators.js">
+    <configuration name="comprison_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/comprison_operators.js" working-dir="$PROJECT_DIR$/js_es6">
+      <method v="2" />
+    </configuration>
     <configuration name="ide-scripting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="if-statement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/if-statement.js" working-dir="$PROJECT_DIR$/js_es6">
       <method v="2" />
     </configuration>
     <configuration name="variable_const.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/variable_const.js" working-dir="$PROJECT_DIR$/js_es6">
       <method v="2" />
     </configuration>
-    <configuration name="variable_let.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/variable_let.js" working-dir="$PROJECT_DIR$/js_es6">
-      <method v="2" />
-    </configuration>
     <configuration name="variables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/variables.js" working-dir="$PROJECT_DIR$/js_es6">
-      <method v="2" />
-    </configuration>
-    <configuration name="variables_var.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/variables_var.js" working-dir="$PROJECT_DIR$/js_es6">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.comprison_operators.js" />
+        <item itemvalue="Node.js.if-statement.js" />
         <item itemvalue="Node.js.variables.js" />
         <item itemvalue="Node.js.ide-scripting.js" />
         <item itemvalue="Node.js.variable_const.js" />
-        <item itemvalue="Node.js.variable_let.js" />
-        <item itemvalue="Node.js.variables_var.js" />
       </list>
     </recent_temporary>
   </component>
@@ -125,22 +123,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="650" height="612" key="GridCell.Tab.0.bottom" timestamp="1616091035812">
+    <state width="650" height="612" key="GridCell.Tab.0.bottom" timestamp="1616106071811">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616091035812" />
-    <state width="650" height="612" key="GridCell.Tab.0.center" timestamp="1616091035810">
+    <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071811" />
+    <state width="650" height="612" key="GridCell.Tab.0.center" timestamp="1616106071810">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616091035810" />
-    <state width="650" height="612" key="GridCell.Tab.0.left" timestamp="1616091035809">
+    <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071810" />
+    <state width="650" height="612" key="GridCell.Tab.0.left" timestamp="1616106071810">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616091035809" />
-    <state width="650" height="612" key="GridCell.Tab.0.right" timestamp="1616091035810">
+    <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071810" />
+    <state width="650" height="612" key="GridCell.Tab.0.right" timestamp="1616106071811">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616091035810" />
+    <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071811" />
     <state x="-1295" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1616085350861">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
