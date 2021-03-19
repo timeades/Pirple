@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc68b51-48b2-41b6-983d-c7abd0440e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js_es6/comprison_operators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_es6/if-statement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/homework/If_statements_&amp;_operators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/lessons/else_else_if.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/lessons/logical_operators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/lessons/nested_if_statements.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/arrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/comprison_operators.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/comprison_operators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/if-statement.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/if-statement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/songs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/homework/songs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/variable_const.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/variable_const.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/variable_let.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/variable_let.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/homework/variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/variables_var.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/variables_var.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,36 +72,36 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js_es6/homework" />
+      <recent name="$PROJECT_DIR$/js_es6/lessons" />
       <recent name="$PROJECT_DIR$/html_css/Instructions" />
       <recent name="$PROJECT_DIR$/html_css/images" />
       <recent name="$PROJECT_DIR$/html_css/css" />
-      <recent name="$PROJECT_DIR$/html_css/icons" />
-      <recent name="$PROJECT_DIR$/html_css" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.comprison_operators.js">
-    <configuration name="comprison_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/comprison_operators.js" working-dir="$PROJECT_DIR$/js_es6">
+  <component name="RunManager" selected="Node.js.If_statements_&amp;_operators.js">
+    <configuration name="If_statements_&amp;_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/homework/If_statements_&amp;_operators.js" working-dir="$PROJECT_DIR$/js_es6/homework">
       <method v="2" />
     </configuration>
-    <configuration name="ide-scripting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" working-dir="$PROJECT_DIR$">
+    <configuration name="comprison_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/comprison_operators.js" working-dir="$PROJECT_DIR$/js_es6">
       <method v="2" />
     </configuration>
-    <configuration name="if-statement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/if-statement.js" working-dir="$PROJECT_DIR$/js_es6">
+    <configuration name="else_else_if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/else_else_if.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
       <method v="2" />
     </configuration>
-    <configuration name="variable_const.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/variable_const.js" working-dir="$PROJECT_DIR$/js_es6">
+    <configuration name="logical_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/logical_operators.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
       <method v="2" />
     </configuration>
-    <configuration name="variables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/variables.js" working-dir="$PROJECT_DIR$/js_es6">
+    <configuration name="nested_if_statements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/nested_if_statements.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.If_statements_&amp;_operators.js" />
+        <item itemvalue="Node.js.else_else_if.js" />
+        <item itemvalue="Node.js.logical_operators.js" />
+        <item itemvalue="Node.js.nested_if_statements.js" />
         <item itemvalue="Node.js.comprison_operators.js" />
-        <item itemvalue="Node.js.if-statement.js" />
-        <item itemvalue="Node.js.variables.js" />
-        <item itemvalue="Node.js.ide-scripting.js" />
-        <item itemvalue="Node.js.variable_const.js" />
       </list>
     </recent_temporary>
   </component>
@@ -123,22 +134,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="650" height="612" key="GridCell.Tab.0.bottom" timestamp="1616106071811">
+    <state width="650" height="914" key="GridCell.Tab.0.bottom" timestamp="1616156349427">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071811" />
-    <state width="650" height="612" key="GridCell.Tab.0.center" timestamp="1616106071810">
+    <state width="650" height="914" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616156349427" />
+    <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111454" />
+    <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353120" />
+    <state width="650" height="914" key="GridCell.Tab.0.center" timestamp="1616156349426">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071810" />
-    <state width="650" height="612" key="GridCell.Tab.0.left" timestamp="1616106071810">
+    <state width="650" height="914" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616156349426" />
+    <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111453" />
+    <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353119" />
+    <state width="650" height="914" key="GridCell.Tab.0.left" timestamp="1616156349426">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071810" />
-    <state width="650" height="612" key="GridCell.Tab.0.right" timestamp="1616106071811">
+    <state width="650" height="914" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616156349426" />
+    <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111452" />
+    <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353118" />
+    <state width="650" height="914" key="GridCell.Tab.0.right" timestamp="1616156349427">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616106071811" />
+    <state width="650" height="914" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616156349427" />
+    <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111453" />
+    <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353119" />
     <state x="-1295" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1616085350861">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
