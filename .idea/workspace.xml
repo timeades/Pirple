@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc68b51-48b2-41b6-983d-c7abd0440e95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js_es6/lessons/Introduction_to_Functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_es6/lessons/Functions/advanced_functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_es6/lessons/Functions/nested_functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_es6/lessons/Functions/nested_functions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,36 +61,36 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js_es6/lessons/Functions" />
+      <recent name="$PROJECT_DIR$/js_es6/lessons/If Statements and Operators" />
+      <recent name="$PROJECT_DIR$/js_es6/lessons/Data Types" />
+      <recent name="$PROJECT_DIR$/js_es6/lessons/Variables and Constants" />
       <recent name="$PROJECT_DIR$/js_es6/homework" />
-      <recent name="$PROJECT_DIR$/js_es6/lessons" />
-      <recent name="$PROJECT_DIR$/html_css/Instructions" />
-      <recent name="$PROJECT_DIR$/html_css/images" />
-      <recent name="$PROJECT_DIR$/html_css/css" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Introduction_to_Functions.js">
+  <component name="RunManager" selected="Node.js.ide-scripting.js">
     <configuration name="If_statements_&amp;_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/homework/If_statements_&amp;_operators.js" working-dir="$PROJECT_DIR$/js_es6/homework">
       <method v="2" />
     </configuration>
-    <configuration name="Introduction_to_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/Introduction_to_Functions.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
+    <configuration name="Introduction_to_Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/Functions/Introduction_to_Functions.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
       <method v="2" />
     </configuration>
-    <configuration name="else_else_if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/else_else_if.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
+    <configuration name="advanced_functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/Functions/advanced_functions.js" working-dir="$PROJECT_DIR$/js_es6/lessons/Functions">
       <method v="2" />
     </configuration>
-    <configuration name="logical_operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/logical_operators.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
+    <configuration name="ide-scripting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="nested_if_statements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/nested_if_statements.js" working-dir="$PROJECT_DIR$/js_es6/lessons">
+    <configuration name="nested_functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_es6/lessons/Functions/nested_functions.js" working-dir="$PROJECT_DIR$/js_es6/lessons/Functions">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ide-scripting.js" />
+        <item itemvalue="Node.js.advanced_functions.js" />
+        <item itemvalue="Node.js.nested_functions.js" />
         <item itemvalue="Node.js.Introduction_to_Functions.js" />
         <item itemvalue="Node.js.If_statements_&amp;_operators.js" />
-        <item itemvalue="Node.js.else_else_if.js" />
-        <item itemvalue="Node.js.logical_operators.js" />
-        <item itemvalue="Node.js.nested_if_statements.js" />
       </list>
     </recent_temporary>
   </component>
@@ -122,28 +123,28 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="664" height="612" key="GridCell.Tab.0.bottom" timestamp="1616165986832">
+    <state width="664" height="612" key="GridCell.Tab.0.bottom" timestamp="1616179970125">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="664" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616165986832" />
+    <state width="664" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616179970125" />
     <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111454" />
     <state width="650" height="612" key="GridCell.Tab.0.bottom/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353120" />
-    <state width="664" height="612" key="GridCell.Tab.0.center" timestamp="1616165986831">
+    <state width="664" height="612" key="GridCell.Tab.0.center" timestamp="1616179970125">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="664" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616165986831" />
+    <state width="664" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616179970125" />
     <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111453" />
     <state width="650" height="612" key="GridCell.Tab.0.center/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353119" />
-    <state width="664" height="612" key="GridCell.Tab.0.left" timestamp="1616165986831">
+    <state width="664" height="612" key="GridCell.Tab.0.left" timestamp="1616179970125">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="664" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616165986831" />
+    <state width="664" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616179970125" />
     <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111452" />
     <state width="650" height="612" key="GridCell.Tab.0.left/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353118" />
-    <state width="664" height="612" key="GridCell.Tab.0.right" timestamp="1616165986832">
+    <state width="664" height="612" key="GridCell.Tab.0.right" timestamp="1616179970125">
       <screen x="-1920" y="-155" width="1920" height="1055" />
     </state>
-    <state width="664" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616165986832" />
+    <state width="664" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.819/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616179970125" />
     <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.820/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616149111453" />
     <state width="650" height="612" key="GridCell.Tab.0.right/-1920.-155.1920.1055/0.25.1440.821/-3840.-190.1920.1055@-1920.-155.1920.1055" timestamp="1616152353119" />
     <state x="-1295" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1616085350861">
